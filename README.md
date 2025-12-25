@@ -1,11 +1,13 @@
-#### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
+# ReVanced Extended
+[![CI](https://github.com/susheatee/revanced-extended-magisk/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/susheatee/revanced-extended-magisk/actions/workflows/ci.yml)
 
-# ReVanced eXtended
-[![CI](https://github.com/NoName-exe/revanced-extended/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/NoName-exe/revanced-extended/actions/workflows/ci.yml)
+Get the [latest CI release](https://github.com/susheatee/revanced-extended-magisk/releases/latest).
 
-Get the [latest CI release](https://github.com/NoName-exe/revanced-extended/releases/latest).
+### A fork of [NoName-exe's Revanced Extended repo](https://github.com/NoName-exe/revanced-extended) made to fix mount not being kept across reboots.
 
 ## Features
+ * Keep mount across reboots.
+ * Build Magisk modules for Youtube Revanced Extended and Youtube Music Revanced Extanded.
  * Updated with the latest versions of patches.
  * Cleans APKs from unneeded libs to make them smaller.
  * Fully open-source, every binary or APK is compiled without human intervention.
@@ -18,13 +20,12 @@ Get the [latest CI release](https://github.com/NoName-exe/revanced-extended/rele
 
  ## Notes
 * Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store from updating YouTube and YouTube-Music.
-* Non-root versions of YouTube and YouTube-Music require [MicroG](https://github.com/ReVanced/GmsCore/releases) to work.
 
 ## Credits
-[j-hc](https://github.com/j-hc) for [zygisk-detach](https://github.com/j-hc/zygisk-detach) and the [script on which this is based on](https://github.com/j-hc/revanced-magisk-module).
+[j-hc](https://github.com/j-hc) for [zygisk-detach](https://github.com/j-hc/zygisk-detach) and the [revanced-magisk-module repo](https://github.com/j-hc/revanced-magisk-module).
 
-[ReVanced Team](https://github.com/revanced) for [MicroG](https://github.com/ReVanced/GmsCore/releases).
+[ReVanced Team](https://github.com/revanced)
 
 [inotia00](https://github.com/inotia00) for [revanced-extended patches](https://github.com/inotia00/revanced-patches).
 
-[Gnad Gnaoh](https://github.com/gnadgnaoh) for helping me figure some stuff out.
+[NoName-exe](https://github.com/NoName-exe) for making the revanced-extended repo](https://github.com/NoName-exe/revanced-extended)

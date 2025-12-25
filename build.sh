@@ -164,7 +164,7 @@ wait
 rm -rf temp/tmp.*
 if [ -z "$(ls -A1 "${BUILD_DIR}")" ]; then abort "All builds failed."; fi
 
-log "Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store from updating YouTube and YouTube-Music."
+log "Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to prevent Play Store from updating YouTube and YouTube Music."
 log "\n[Main repo](https://github.com/Susheate/revanced-extended-magisk)\n"
 log "$(cat "$TEMP_DIR"/*-rv/changelog.md)"
 

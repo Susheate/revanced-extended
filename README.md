@@ -19,7 +19,7 @@ Get the [latest CI release](https://github.com/susheatee/revanced-extended-magis
      * Support Magisk and KernelSU.
 
  ## Notes
-* Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store from updating YouTube and YouTube-Music.
+* Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to prevent Play Store from updating YouTube and YouTube-Music.
 
 ## Credits
 [j-hc](https://github.com/j-hc) for [zygisk-detach](https://github.com/j-hc/zygisk-detach) and the [revanced-magisk-module repo](https://github.com/j-hc/revanced-magisk-module).

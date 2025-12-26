@@ -11,12 +11,11 @@ Get the [latest CI release](https://github.com/susheatee/revanced-extended-magis
  * Updated with the latest versions of patches
  * Cleans APKs from unneeded libs to make them smaller
  * Fully open-source, every binary or APK is compiled without human intervention
- * Modules:
-     * Recompile invalidated odex for YouTube and YouTube-Music for faster usage
-     * Receive updates from Magisk app.
-     * Should not trigger root detections used by certain apps
-     * Installs base apk from apkmirror
-     * Support Magisk and KernelSU
+ * Recompiles the invalid .dex files, allowing a faster usage
+ * Modules receive updates from the Magisk app
+ * Should not trigger root detections
+ * Installs base apks from apkmirror
+ * Modules support both Magisk and KernelSU
 
  ## Notes
 * Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to prevent Play Store from updating YouTube and YouTube-Music.

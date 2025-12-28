@@ -1,5 +1,5 @@
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
-patches-source = "inotia00/revanced-patches"
+patches-source = "mininxd/revanced-patches"
 rv-brand = "ReVanced Extended"
 parallel-jobs = 1
 
@@ -9,23 +9,17 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
-build-mode = "module"                                                   
-excluded-patches = ""                                                 
-included-patches = "" 
+build-mode = "module"
 patcher-args = " -e 'GmsCore support' -OpackageNameYouTube='yt.rvx' "
-version = "auto"                                                      
-exclusive-patches = false                                             
+version = "auto"                
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "yt-rvx"
+arch = "both"
 
 [Music]
-arch = "both"
 build-mode = "module"
-app-name = "YouTube-Music"
-excluded-patches = ""
-included-patches = ""
 patcher-args = " -e 'GmsCore support' -OpackageNameYouTubeMusic='ytm.rvx' "
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 module-prop-name = "ytm-rvx"
-
+arch = "both"

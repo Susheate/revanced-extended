@@ -9,13 +9,9 @@
  * Keep mounts across reboots
  * Builds Magisk modules with RVX patches for YouTube and YouTube-Music
  * Updated with the latest versions of patches
- * Cleans APKs from unneeded libs to make them smaller
  * Modules are built without human intervention
- * Recompiles the invalid .dex files, allowing a faster usage
  * Modules receive updates from the Magisk app
  * Should not trigger root detections
- * Installs base apks from apkmirror
- * Modules support both Magisk and KernelSU
 
  ## Notes
 * Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to prevent Play Store from updating YouTube and YouTube-Music.

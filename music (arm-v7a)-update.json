@@ -1,6 +1,6 @@
 {
   "version": "v8.30.54 (patches: rv/5.14.1)",
-  "versionCode": 12,
-  "zipUrl": "https://github.com/Susheate/revanced-extended-magisk/releases/download/12/music-revanced-extended-magisk-v8.30.54-arm-v7a.zip",
+  "versionCode": 13,
+  "zipUrl": "https://github.com/Susheate/revanced-extended-magisk/releases/download/13/music-revanced-extended-magisk-v8.30.54-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/Susheate/revanced-extended-magisk/update/build.md"
 }

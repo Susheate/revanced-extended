@@ -14,7 +14,6 @@ patcher-args = " -e 'GmsCore support' -OpackageNameYouTube='yt.rvx' "
 version = "auto"                
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "yt-rvx"
-arch = "both"
 
 [Music]
 build-mode = "module"

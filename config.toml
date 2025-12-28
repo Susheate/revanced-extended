@@ -10,20 +10,13 @@ parallel-jobs = 1
 
 [YouTube]
 build-mode = "module"
-app-name = "YouTube-Music"
-excluded-patches = ""
-included-patches = "" 
 patcher-args = " -e 'GmsCore support' -OpackageNameYouTube='yt.rvx' "
 version = "auto"                
-exclusive-patches = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "yt-rvx"
 
 [Music]
-arch = "all"
 build-mode = "module"
-excluded-patches = ""
-included-patches = ""
 patcher-args = " -e 'GmsCore support' -OpackageNameYouTubeMusic='ytm.rvx' "
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"

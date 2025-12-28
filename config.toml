@@ -1,5 +1,5 @@
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
-patches-source = "inotia00/revanced-patches"
+patches-source = "mininxd/revanced-patches"
 rv-brand = "ReVanced Extended"
 parallel-jobs = 1
 

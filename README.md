@@ -1,16 +1,16 @@
 # ReVanced Extended Magisk modules
 [![CI](https://github.com/Susheate/revanced-extended-magisk/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/Susheate/revanced-extended-magisk/actions/workflows/ci.yml)
 
-Get the [latest CI release](https://github.com/susheatee/revanced-extended-magisk/releases/latest)
 
-### A fork of [NoName-exe's Revanced Extended repo](https://github.com/NoName-exe/revanced-extended) made to fix mounts not being kept across reboots and various other issues.
+
+**A fork of [NoName-exe's Revanced Extended repo](https://github.com/NoName-exe/revanced-extended) made to fix various issues, including mounts not being kept across reboots.**
 
 ## Features
  * Keep mounts across reboots
- * Builds Magisk modules for Youtube Revanced Extended and Youtube Music Revanced Extended
+ * Builds Magisk modules with RVX patches for YouTube and YouTube-Music
  * Updated with the latest versions of patches
  * Cleans APKs from unneeded libs to make them smaller
- * Fully open-source, every binary or APK is compiled without human intervention
+ * Modules are built without human intervention
  * Recompiles the invalid .dex files, allowing a faster usage
  * Modules receive updates from the Magisk app
  * Should not trigger root detections

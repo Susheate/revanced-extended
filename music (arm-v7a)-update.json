@@ -1,6 +1,6 @@
 {
-  "version": "v8.30.54 (patches: 5.13.1)",
-  "versionCode": 7,
-  "zipUrl": "https://github.com/Susheate/revanced-extended-magisk/releases/download/7/youtube-music-revanced-extended-magisk-v8.30.54-arm-v7a.zip",
+  "version": "v8.30.54 (patches: rv/5.14.1)",
+  "versionCode": 11,
+  "zipUrl": "https://github.com/Susheate/revanced-extended-magisk/releases/download/11/music-revanced-extended-magisk-v8.30.54-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/Susheate/revanced-extended-magisk/update/build.md"
 }

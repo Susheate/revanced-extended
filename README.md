@@ -1,6 +1,6 @@
 # ReVanced Extended Magisk modules
 [![CI](https://img.shields.io/github/actions/workflow/status/Susheate/revanced-extended-magisk/ci.yml?branch=main&style=for-the-badge&label=ci)](https://github.com/Susheate/revanced-extended-magisk/actions/workflows/ci.yml)
-[![Total Downloads](https://img.shields.io/github/downloads/Susheate/revanced-extended-magisk/total?label=Downloads&style=for-the-badge)](https://github.com/Susheate/revanced-extended-magisk/releases)
+
 
 
 **A fork of [NoName-exe's Revanced Extended repo](https://github.com/NoName-exe/revanced-extended) made to fix various issues, including mounts not being kept across reboots.**

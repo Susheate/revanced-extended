@@ -19,7 +19,7 @@
 ## Credits
 [j-hc](https://github.com/j-hc) for [zygisk-detach](https://github.com/j-hc/zygisk-detach) and the [revanced-magisk-module repo](https://github.com/j-hc/revanced-magisk-module)
 
-[ReVanced Team](https://github.com/revanced)
+[ReVanced team](https://github.com/revanced)
 
 [inotia00](https://github.com/inotia00) for their [revanced-extended patches](https://github.com/inotia00/revanced-patches)
 

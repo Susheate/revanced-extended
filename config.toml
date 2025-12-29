@@ -28,3 +28,9 @@ build-mode = "module"
 version = "auto"                
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 module-prop-name = "reddit-rvx"
+
+[TikTok]
+build-mode = "module"
+version = "auto"                
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+module-prop-name = "tiktok-rvx"

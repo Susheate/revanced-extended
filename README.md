@@ -1,5 +1,5 @@
 # ReVanced Extended Magisk modules
-[![CI](https://img.shields.io/github/actions/workflow/status/Susheate/revanced-extended-magisk/ci.yml?branch=main&style=for-the-badge&label=ci)](https://github.com/Susheate/revanced-extended-magisk/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/Susheate/revanced-extended-magisk/ci.yml?branch=main&style=for-the-badge&label=ci)](https://github.com/Susheate/revanced-extended/actions/workflows/ci.yml)
 
 
 
